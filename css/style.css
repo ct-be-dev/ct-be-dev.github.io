@@ -306,11 +306,20 @@
 .skills .item-text span:last-child{
     position: absolute;
 }
+.skills .item-text .w-95{
+    margin-left: 90%;
+}
 .skills .item-text .w-90{
     margin-left: 85%;
 }
 .skills .item-text .w-75{
     margin-left: 70%;
+}
+.skills .item-text .w-70{
+    margin-left: 65%;
+}
+.skills .item-text .w-65{
+    margin-left: 60%;
 }
 .skills .item-text .w-85{
     margin-left: 80%;
@@ -338,11 +347,20 @@
     border-top-right-radius: 2px;
     border-bottom-right-radius: 2px;
 }
+.progress-bar.w-95{
+    width: 95%;
+}
 .progress-bar.w-90{
     width: 90%;
 }
 .progress-bar.w-75{
     width: 75%;
+}
+.progress-bar.w-70{
+    width: 70%;
+}
+.progress-bar.w-65{
+    width: 65%;
 }
 .progress-bar.w-85{
     width: 85%;
